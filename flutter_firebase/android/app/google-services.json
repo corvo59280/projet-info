@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1045004123065",
+    "project_id": "flutter-ecam-obility-1",
+    "storage_bucket": "flutter-ecam-obility-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045004123065:android:2fa50e838eebd26c851468",
+        "android_client_info": {
+          "package_name": "com.hugos.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045004123065-oj770qfhgt7rbvlsbd2u59p9tvfg0vuu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXYQA0UdBbfRrLbW6QiQB-_mwBEJNY2IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045004123065-oj770qfhgt7rbvlsbd2u59p9tvfg0vuu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
